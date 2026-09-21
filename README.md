@@ -14,4 +14,4 @@ ternary statement-check borrowing time
 1.Jjunju Rautha Nassuna-25/U/1244
 2.Akampurira Challen-25/U/14882/PS
 3.Namuwaya Lukia-25/U/26886
-4.KusasiIra Samuel-25/U/15176/EVE
+4.Kusasiira Samuel-25/U/15176/EVE
